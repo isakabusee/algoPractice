@@ -75,9 +75,6 @@ const iterateThrough= (words) => {
       
       for(let j=0; j<string.length; j++){
         console.log(string[j])
-        // if(words[i]==string[j]){
-          
-        // }
       }
     }
 
